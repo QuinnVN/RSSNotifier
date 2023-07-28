@@ -161,3 +161,7 @@ cython_debug/
 
 #data
 data.txt
+
+#Debug information
+stderr.txt
+stdout.txt
